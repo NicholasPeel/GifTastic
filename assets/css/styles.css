@@ -1,0 +1,89 @@
+body{
+
+	background-color: lightgrey;
+
+}
+.buttons{
+
+	background-color: grey;
+	text-align: center;
+	border-radius: 20px;
+	margin-bottom: 50px;
+	padding: 20px 0px 20px 0px;
+
+}
+.animal{
+
+	height: 100px;
+	width: 100px;
+	background-color: black;
+	color: #fff;
+	border-radius: 20px;
+
+}
+.form{
+
+	background-color: grey;
+	border-radius: 20px;
+	width: 300px;
+	height: auto;
+	text-align: center;
+	padding: 20px 0px 20px 0px;
+
+}
+#input{
+
+	margin-bottom: 20px;
+
+
+}
+#submit{
+
+	height: 100px;
+	width: 100px;
+	background-color: black;
+	color: #fff;
+	border-radius: 20px;	
+
+}
+#label{
+
+	margin-bottom: 10px;
+	font-size: 24px;
+	color: #fff;
+
+}
+.gifs{
+
+	background-color: grey
+	border-radius: 20px;
+
+}
+.gifs2{
+
+	background-color: grey
+	border-radius: 20px;
+}
+.gif{
+
+	margin-bottom: 10px;
+	border-radius: 20px;
+	border: solid black 5px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
